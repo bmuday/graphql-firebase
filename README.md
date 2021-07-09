@@ -1,2 +1,1 @@
-# graphql-intro
-# graphql-intro
+# graphql-firebase
